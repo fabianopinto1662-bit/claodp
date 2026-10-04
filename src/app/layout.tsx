@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 
 // ✅ URL ABSOLUTA - Cambia solo si tu dominio es diferente
 const SITE_URL = "https://www.actualiza-tu-app.com/";
-// ✅ VERSIÓN DE LA IMAGEN - Cambia este número para forzar actualizació
+// ✅ VERSIÓN DE LA IMAGEN - Cambia este número para forzar actualización
 const IMAGE_VERSION = "v3";
 
 export const metadata: Metadata = {
