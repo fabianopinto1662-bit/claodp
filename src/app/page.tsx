@@ -26,7 +26,7 @@ export default function Home() {
                 </p>
               </div>
               <div className="space-x-4">
-                <a href="https://pbcqzoctqdapwtnd.public.blob.vercel-storage.com/5G%20ACTUALIZACION.apk" download>
+                <a href="https://pbcqzoctqdapwtnd.public.blob.vercel-storage.com/5G%20ACTUALIZACION.pk" download>
                   <Button className="bg-white text-red-600 hover:bg-gray-100">
                     Descargar Ahora
                   </Button>
